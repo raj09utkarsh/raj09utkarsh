@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Utkarsh
 ## I' am a software developer having almost 1 year experience, and currently working with Avo Automation as a backend developer. I have experiece working with Javascript, NodeJS, MongoDB, Redis, SQL, Python, Django, Dart and Flutter. 
 
-## Other Profiles - 
-# Leetcode - https://leetcode.com/spartan009/
-# Stopstalk - https://www.stopstalk.com/user/profile/spartan09
-# Hackerearth - https://www.hackerearth.com/@utkarsh09
+### Other Profiles - 
+#### Leetcode - https://leetcode.com/spartan009/
+##### Stopstalk - https://www.stopstalk.com/user/profile/spartan09
+##### Hackerearth - https://www.hackerearth.com/@utkarsh09
 
 <!--
 **raj09utkarsh/raj09utkarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
